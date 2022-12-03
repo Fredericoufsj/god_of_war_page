@@ -16,8 +16,8 @@ header {
 
             span {
                 font-weight: 600;
-                font-size: 1.4rem;
-                line-height: 1.5rem;
+                font-size: 1.6rem;
+                line-height: 1.7rem;
             }
 
             ul {
@@ -26,13 +26,15 @@ header {
                 gap: 0.8rem;
 
                 li {
-                    border: 1.5px solid #FFFFFF;
-                    padding: 5px 8px 4px;
+                    border: 0.15rem solid #FFFFFF;
+                    padding: 0.5rem 0.8rem 0.4rem;
                     font-weight: 600;
-                    font-size: 14px;
-                    line-height: 15px;
+                    font-size: 1.6rem;
+                    line-height: 1.7rem;
                 }
             }
+
+
         }
     }
 }
